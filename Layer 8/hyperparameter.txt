@@ -1,0 +1,17 @@
+##### Label 1 SVM classifier
+Best Hyperparameters: {'kernel': 'rbf', 'gamma': 0.001, 'C': 100}
+
+##### Label 2 SVM classifier
+Best Hyperparameters: {'kernel': 'rbf', 'gamma': 0.001, 'C': 100} Accuracy: 91.85%
+
+
+### Label 3
+Best Hyperparameters:{'kernel': 'rbf', 'gamma': 0.001, 'C': 100}
+
+Accuracy :99.07% -> 99.60%
+
+
+### label 4
+
+{'kernel': 'rbf', 'gamma': 0.001, 'C': 100}
+Accuracy: 96.13%
